@@ -1,13 +1,13 @@
 # guokrspace
 
-This website is a (react flux app)[reactjs.org] with (Semantic UI)[http://semantic-ui.com]. it comprises of following components
-* <Header >
-* <Footer >
-* <Showcase >
-* <Workshop >
-* <Aboutus >
-* <LandingImage >
-* <Participate >
+This website is a [react flux app](http://reactjs.org) with [Semantic UI](http://semantic-ui.com). it comprises of following components
+* Header
+* Footer
+* Showcase
+* Workshop
+* Aboutus
+* LandingImage
+* Participate
 
 Each webpage is just a combination of above components. E.g the homepage is made of 
 <pre>
